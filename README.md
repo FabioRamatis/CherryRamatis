@@ -27,8 +27,8 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/cherryramatis/)](https://github.com/cherryramatis?tab=repositories&q=&type=&language=typescript)
 [![React](https://img.shields.io/badge/-React-58c6e4?style=flat-square&logo=react&logoColor=white&link=https://github.com/cherryramatis/)](https://github.com/cherryramatis?tab=repositories&q=&type=&language=)
 [![React-Native](https://img.shields.io/badge/-React_Native-05a5d1?style=flat-square&logo=react&logoColor=white&link=https://github.com/cherryramatis/)](https://github.com/cherryramatis?tab=repositories&q=&type=&language=)
-[![Flutter](https://img.shields.io/badge/-Flutter-05a5d1?style=flat-square&logo=flutter&link=https://github.com/cherryramatis/)](https://github.com/cherryramatis?tab=repositories&q=&type=&language=)
-[![Clojure](https://img.shields.io/badge/-Clojure-05a5d1?style=flat-square&logo=clojure&logoColor=white&link=https://github.com/cherryramatis/)](https://github.com/cherryramatis?tab=repositories&q=&type=&language=)
+[![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=flat-square&logo=flutter&link=https://github.com/cherryramatis/)](https://github.com/cherryramatis?tab=repositories&q=&type=&language=)
+[![Clojure](https://img.shields.io/badge/-Clojure-199f4b?style=flat-square&logo=clojure&logoColor=white&link=https://github.com/cherryramatis/)](https://github.com/cherryramatis?tab=repositories&q=&type=&language=)
 
 <center>
     <table align="center">
